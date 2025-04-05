@@ -11,6 +11,8 @@ A desktop version of the classic **Minesweeper** game built with **JavaScript** 
 
 ## Getting Started
 
+Release v1.0.0 - You can now just try it using the .exe file
+
 ### Prerequisites
 
 Before you start, you need to have **Node.js** installed on your system. You can download it from [here](https://nodejs.org/).
